@@ -10,7 +10,7 @@ as multi line chart that shows the minimum and maximum temperature for the day.
 
 ## Tech Stack
 
-**Client:** React, Next.js, MaterialUI, Recharts, Typescript, Lint
+**Client:** React, Next.js, MaterialUI, Recharts, Typescript, Lint <br>
 **Server:** Node, Apollo, GraphQL
 
 ### Installing
