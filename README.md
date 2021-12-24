@@ -1,6 +1,4 @@
-# Project Title
-
-Weather Forecast Basel, CH
+# Weather Forecast Basel, CH
 
 ## Description
 
