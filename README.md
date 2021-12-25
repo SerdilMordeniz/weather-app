@@ -3,7 +3,7 @@
 ## Description
 
 A fully responsive, server side rendered website that shows the current weather conditions for Basel. 
-Furthermore there is a map that shows the location and finally there is a 7 day weather forecast for
+Furthermore there is a map that shows the location and finally there is a 7 day weather forecast
 as multi line chart that shows the minimum and maximum temperature for the day.
 
 ## Tech Stack
